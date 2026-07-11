@@ -18,10 +18,10 @@ Organize your tasks with style, precision, and a touch of anime flair.
 ---
 
 ## Tech Stack
-- **Frontend:** React, React Router, Axios, react-beautiful-dnd  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB (Atlas or local)  
-- **Auth:** JWT + bcrypt  
+- **Frontend:**  React, React Router, Axios, react-beautiful-dnd  
+- **Backend:**   Node.js, Express.js  
+- **Database:**  MongoDB (Atlas or local)  
+- **Auth:**      JWT + bcrypt  
 - **Deployment:** Netlify (frontend), Render/Heroku (backend)  
 
 ---
