@@ -1,6 +1,6 @@
 # stone-ocean-task-manager
 
-*"Freedom flows like the ocean — so do your tasks."*
+*"Freedom flows like the ocean, so do your tasks."*
 
 A JoJo-inspired Task Manager built with the **MERN stack** (MongoDB, Express, React, Node.js).  
 Organize your tasks with style, precision, and a touch of anime flair.
