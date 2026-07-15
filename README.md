@@ -11,7 +11,7 @@ Organize your tasks with style, precision, and a touch of anime flair.
 - **User Authentication** (Register/Login with JWT)
 - **Task CRUD** (Create, Read, Update, Delete)
 - **Kanban Board** (Drag-and-drop tasks between To Do, In Progress, Done)
-- **JoJo Theme** (Stone Ocean-inspired design and naming)
+- **JoJo Theme** (Stone Ocean-inspired design and name)
 - **Dark Mode Toggle**
 - **Deadline Reminders** (optional extra feature)
 
