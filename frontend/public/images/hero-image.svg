@@ -1,0 +1,15 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="url(#paint0_linear_1_2)"/>
+  <circle cx="1150" cy="230" r="180" fill="rgba(255,255,255,0.18)"/>
+  <path d="M0 660C220 560 340 550 540 610C740 670 980 725 1600 560V900H0V660Z" fill="rgba(16,61,79,0.7)"/>
+  <path d="M0 740C250 680 430 700 620 760C820 825 1100 860 1600 680V900H0V740Z" fill="rgba(10,34,50,0.9)"/>
+  <rect x="660" y="310" width="280" height="120" rx="14" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.3)"/>
+  <text x="800" y="382" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="600">YOUR IMAGE</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#dfeaf3"/>
+      <stop offset="0.45" stop-color="#b8d0dd"/>
+      <stop offset="1" stop-color="#537a8a"/>
+    </linearGradient>
+  </defs>
+</svg>

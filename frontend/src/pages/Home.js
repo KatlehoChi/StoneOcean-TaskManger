@@ -7,8 +7,8 @@ function Home() {
       <section className="home-hero" aria-labelledby="home-title">
         <img
           className="home-hero-image"
-          src="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=2400&q=85"
-          alt="Deep teal ocean waves breaking into white foam"
+          src="/images/hero-image.svg"
+          alt="Hero image for the Stone Ocean home page"
           fetchPriority="high"
         />
         <div className="home-content">
